@@ -1,2 +1,2 @@
-# Billing-System-for-Korean-Food-Restaurant
-Billing System for Korean Food Restaurant
+# Korean-Food-Management-System
+Korean Food Management System
