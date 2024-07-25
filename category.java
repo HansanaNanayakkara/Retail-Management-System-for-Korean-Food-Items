@@ -4,10 +4,7 @@
  */
 package rms;
 
-/**
- *
- * @author sandunsrimal
- */
+
 public class category extends javax.swing.JFrame {
 
     /**
