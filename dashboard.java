@@ -4,10 +4,7 @@
  */
 package rms;
 
-/**
- *
- * @author sandunsrimal
- */
+
 public class dashboard extends javax.swing.JFrame {
 
     /**
