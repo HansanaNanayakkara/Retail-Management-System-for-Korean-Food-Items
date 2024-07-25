@@ -14,10 +14,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author sandunsrimal
- */
+
 public class insert extends javax.swing.JFrame {
 
     /**
