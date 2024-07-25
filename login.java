@@ -16,10 +16,6 @@ import javax.swing.JTextField;
 
 
 
-/**
- *
- * @author sandunsrimal
- */
 public class login extends javax.swing.JFrame {
 
     
